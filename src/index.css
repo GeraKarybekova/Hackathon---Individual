@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar_main{
+  background-color: #bfdcde;
+}
+
+.main-page{
+  background-image: url(./images/header-bg.png);
+  width: auto;
+  height: 700px;
+}
+
+.main-tag {
+  padding-top: 100px;
+  padding-bottom: 30px;
+  font-size: 50px;
+  color: #0B7077;
+}
+
+.desciption-tag{
+  color: #0B7077;
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+
+
+

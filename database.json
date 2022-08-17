@@ -1,0 +1,57 @@
+{
+  "universities": [
+    {
+      "name": "Georgetown",
+      "program": "Master's in Project Management",
+      "location": "Washington, DC",
+      "startDate": "Fall, spring, summer",
+      "applicationDeadline": "2022-10-15",
+      "tuition": 45.810,
+      "timeToComplete": "2–5 years",
+      "id": 2
+    },
+    {
+      "name": "fhjf",
+      "program": "hjh",
+      "location": "hjj",
+      "startDate": "hj",
+      "applicationDeadline": "8899-02-07",
+      "tuition": 8989,
+      "timeToComplete": "89",
+      "webSite": "89",
+      "id": 3
+    },
+    {
+      "name": "Columbia University",
+      "program": "Master of Science in Technology Management",
+      "location": "New York",
+      "startDate": "Fall, Spring",
+      "applicationDeadline": "2022-10-01",
+      "tuition": 87.408,
+      "timeToComplete": "1 year",
+      "webSite": "https://sps.columbia.edu/academics/masters/technology-management?gclid=CjwKCAjwo_KXBhAaEiwA2RZ8hNasOJ4TygXF9YXhNGlDWMSA7j0BBd2t7uM8jbN7K07X-bGnPN0ejhoCLncQAvD_BwE&gclsrc=aw.ds",
+      "id": 4
+    },
+    {
+      "name": "klk",
+      "program": "klkl",
+      "location": "klkl",
+      "startDate": "kllk",
+      "applicationDeadline": "0090-01-09",
+      "tuition": 90909,
+      "timeToComplete": "909",
+      "webSite": "909",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
